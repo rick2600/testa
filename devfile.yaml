@@ -1,3 +1,3 @@
 schemaVersion: 2.2.0
 parent:
-  uri: /tmp/xxx
+  uri: https://raw.githubusercontent.com/gquadros/testa/main/../../tmp/opa/zzz

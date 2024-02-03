@@ -1,0 +1,3 @@
+[submodule "neto"]
+	path = ../../../../../../../../../tmp/lala
+	url = git://github.com/gquadros/testa.git

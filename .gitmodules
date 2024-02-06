@@ -1,6 +1,0 @@
-[submodule "neto"]
-	path = ../../../../../../../../../tmp/lala
-	url = git://github.com/gquadros/testa.git
-[submodule "testa"]
-	path = testa
-	url = https://github.com/gquadros/testa

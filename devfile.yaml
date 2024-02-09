@@ -1,4 +1,4 @@
 schemaVersion: 2.2.0
 parent:
-    uri: ../qqq/\..\..\/etc/bla
+    uri: ../qqq/etc/bla
     
